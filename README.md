@@ -4,4 +4,4 @@
 ## pytorch api and basic model
 
 ##basic_model
-#### lr/mlp/cnn/lstm/var/gan/gnn
+#### lr/mlp/cnn/lstm/vae/gan/gnn
